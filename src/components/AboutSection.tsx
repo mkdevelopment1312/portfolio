@@ -35,7 +35,7 @@ const AboutSection: React.FC = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       label: t('about.location.title'),
-      value: t('about.location.value')
+      value: 'Kraków, Poland'
     },
     {
       icon: <Calendar className="w-6 h-6" />,
@@ -132,7 +132,7 @@ const AboutSection: React.FC = () => {
                     <div className="space-y-2 text-gray-300">
                       <div className="text-blue-400">class <span className="text-green-400">Developer</span>:</div>
                       <div className="ml-4 text-purple-400">def __init__(self):</div>
-                      <div className="ml-8">self.name = <span className="text-yellow-400">"Aleksander"</span></div>
+                      <div className="ml-8">self.name = <span className="text-yellow-400">"Kamil"</span></div>
                       <div className="ml-8">self.age = <span className="text-cyan-400">17</span></div>
                       <div className="ml-8">self.location = <span className="text-yellow-400">"Kraków"</span></div>
                       <div className="ml-8">self.passion = <span className="text-yellow-400">"Coding"</span></div>

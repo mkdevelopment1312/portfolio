@@ -36,7 +36,7 @@ const translations = {
     'about.location': 'Kraków, Polska',
     'about.age': '17 lat',
     'about.experience': '3+ lata w AI/ML',
-    
+    'about.location.value':'Lokalizacja',
     // Skills Section
     'skills.title': 'Umiejętności',
     'skills.subtitle': 'AI i programowanie w każdym języku',

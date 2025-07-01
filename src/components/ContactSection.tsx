@@ -99,7 +99,7 @@ const ContactSection: React.FC = () => {
             {/* CTA Button */}
             <div className={`pt-8 transition-all duration-500 ${isVisible ? 'animate-scale-in' : 'opacity-0'}`} style={{ animationDelay: '0.6s' }}>
               <a
-                href="mailto:aleksander.kowalski.dev@gmail.com"
+                href="mailto:maslanekk2115@gmail.com"
                 className="inline-flex items-center space-x-3 btn-primary text-lg"
                 aria-label={t('contact.email')}
               >
@@ -121,7 +121,7 @@ const ContactSection: React.FC = () => {
                       AK
                     </div>
                     <h3 className="text-2xl font-bold text-gray-900 dark:text-white">
-                      Aleksander Kowalski
+                      Kamil Maślanka
                     </h3>
                     <p className="text-apple-blue font-medium">
                       Full Stack Developer
@@ -135,7 +135,7 @@ const ContactSection: React.FC = () => {
                       <div>
                         <p className="text-sm text-gray-500 dark:text-gray-400">Email</p>
                         <p className="font-medium text-gray-900 dark:text-white text-sm">
-                          aleksander.kowalski.dev@gmail.com
+                          maslanekk2115@gmail.com
                         </p>
                       </div>
                     </div>
