@@ -4,4 +4,4 @@ Allow: /
 # Kamil Maslanka Portfolio
 # Copyright © 2025 Kamil Maslanka. All rights reserved.
 
-Sitemap: https://mkdevelopment.dev/sitemap.xml
+Sitemap: https://mkdevelopment1312.github.io/portfolio/sitemap.xml

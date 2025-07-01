@@ -2,7 +2,7 @@
   "name": "Kamil Maslanka Portfolio",
   "short_name": "KM Portfolio",
   "description": "Portfolio Kamila Maslanki - AI & Full Stack Developer",
-  "start_url": "/",
+  "start_url": "/portfolio/",
   "display": "standalone",
   "background_color": "#1a1a1a",
   "theme_color": "#1a1a1a",
