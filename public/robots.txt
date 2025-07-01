@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Kamil Maslanka Portfolio
+# Copyright © 2025 Kamil Maslanka. All rights reserved.
+
+Sitemap: https://mkdevelopment.dev/sitemap.xml
